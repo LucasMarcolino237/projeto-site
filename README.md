@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="imagens/curso-em-video-cor.png" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
 Pojeto de site (curso em video)
